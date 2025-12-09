@@ -4,28 +4,28 @@
 
 sidebar:
   position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  name: Abdillah Haidar Mahendro
+  tagline: Backend Engineer
+  avatar: #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: abdil.haidar17@gmail.com
+  phone: 0889 7766 4271
+  timezone: Asia/Jakarta # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  website: https://x-hozmi.github.io # Include the full website URL, including "http://" or "https://".
+  linkedin: abdillah-haidar-mahendro-049237258
+  xing:
+  github: X-Hozmi
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky: # Specify your full Bluesky handle
+  twitter:
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -37,56 +37,38 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Indonesia
       level: Native
 
-    - idiom: French
-      level: Professional
+    - idiom: English
+      level: Intermediate
 
-    - idiom: Spanish
-      level: Professional
+  # interests:
+  #   title: Interests
+  #   info:
+  #   - item: Coding personal projects
+  #     link:
 
-  interests:
-    title: Interests
-    info:
-    - item: Climbing
-      link:
+  #   - item: Travelling
+  #     link:
 
-
-    - item: Snowboarding
-      link:
-
-
-    - item: Cooking
-      link:
+  #   - item: Gaming
+  #     link:
 
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Backend Engineer with strong expertise in building scalable backend systems using Laravel and designing robust API integrations.
+    In addition to backend development, I also take on supporting roles as a System Administrator, Database Engineer, DevOps Engineer,
+    and Cloud Engineer, enabling me to manage infrastructure, ensure system reliability, and optimize performance across environments. 
+    Flutter remains a complementary skill, allowing me to contribute to frontend mobile development when needed.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: BSc in Computer Science
+    university: Bani Saleh University
+    time: 2022 - 2026 (Expected)
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -99,188 +81,211 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Backend Engineer
+    time: 2025 Jan - Present
+    company: PT Energi Pelabuhan Indonesia
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      - Office
+      - Provisioned, configured, and optimized cloud infrastructure to support scalable application deployments using Cloudeka IaaS to ensure high availability, reliable performance, and cost-efficient infrastructure operations for production workloads
+      - Provide a reliable and high-performance server environment capable of handling backend workloads using Ubuntu
+      - Strengthened server and application security infrastructure layers using multi-layered security techniques using firewalls, SSL/TLS encryption, and regular security audits to protect sensitive data and maintain system integrity
+      - Configured and managed CI/CD pipelines using GitHub Actions to optimize development and deployment workflows
+      - Designed, developed, and optimized scalable RESTful APIs using Laravel Framework that follow clean architecture principles, ensuring fast, secure, and consistent API consumption across mobile and web applications while supporting future scalability and integration needs
+      - Secured API endpoints and application data through policy enforcement and configuration hardening using NginX to minimize attack surfaces, protect API and server from common cyberthreats, and ensure compliance with best-practice security standards
+      - Built robust data synchronization pipelines between internal services and external APIs using Laravel, secure protocols, and automation, ensuring accurate and seamless data exchange
+      - Designed, implemented, and maintained monitoring solutions using Sentry, Prometheus and Grafana to ensure comprehensive visibility into system performance. Managed and optimized configurations for meaningful insights
+      - Actively programmed Bash for task automation
+  - role: Mobile Developer
+    time: 2023 Jan - 2024 Dec
+    company: PT Energi Pelabuhan Indonesia
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      - Office
+      - Develop Mobile Customer Self-Service Application with Flutter to eliver a fast, intuitive, and reliable mobile application that improves customer accessibility, enhances user engagement, and supports business operations through real-time service interaction
+      - Ensured all development processes adhered to industry-standard best practices across backend, frontend, infrastructure, and DevOps workflows to maintainable, scalable, secure, and high-quality application development while improving collaboration, reducing technical debt, and supporting long-term product lifecycle
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
+  - name: Becoming a Google Cloud Architect
+    start: 2024
+    end: 2027
+    organization: Dicoding
+    credentialid: 07Z60MWNYZQR
+    credentialurl: www.dicoding.com/certificates/07Z60MWNYZQR
+    credentialname: Dicoding
     details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      This class is intended for individuals who want to advance their
+      careers in cloud computing, such as becoming a Professional Cloud Architect,
+      adhering to Google's international competency standards. By the end of the class,
+      students will be able to accurately design and build architectures using the
+      services available on the Google Cloud Platform, ensuring reliability and security.
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
+  - name: Becoming a Google Cloud Engineer
+    start: 2024
+    end: 2027
+    organization: Dicoding
+    credentialid: JMZV38933PN9
+    credentialurl: www.dicoding.com/certificates/JMZV38933PN9
+    credentialname: Dicoding
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      This class is designed for students who want to learn cloud computing, 
+      specifically Google Cloud, based on industry standards. By the end of the class, 
+      students will be able to master Google Cloud services and use them 
+      to create cloud solutions.
+
+  - name: Learn CI/CD Implementation
+    start: 2024
+    end: 2027
+    organization: Dicoding
+    credentialid: KEXL1RVVRXG2
+    credentialurl: www.dicoding.com/certificates/KEXL1RVVRXG2
+    credentialname: Dicoding
+    details: |
+      This class is intended for developers, IT operations, or individuals who want 
+      to understand the intricacies of DevOps, especially in terms of 
+      implementing CI/CD practices, as a step to improve the application development 
+      process they are currently involved in. By the end of the class, students will 
+      be able to understand how to implement CI/CD as one of the practices 
+      in implementing DevOps.
+      
+  - name: Becoming a Linux System Administrator
+    start: 2024
+    end: 2027
+    organization: Dicoding
+    credentialid: 1RXYL8VW3PVM
+    credentialurl: www.dicoding.com/certificates/1RXYL8VW3PVM
+    credentialname: Dicoding
+    details: |
+      This class is intended for individuals who want to understand the intricacies 
+      of the Linux operating system as a step towards becoming a Linux System Administrator. 
+      By the end of the class, students will be able to operate the Linux operating system 
+      competently, becoming a competent Linux System Administrator.
+
+  - name: Becoming a Back-End Developer Expert
+    start: 2024
+    end: 2027
+    organization: Dicoding
+    credentialid: 0LZ067ODRZ65
+    credentialurl: www.dicoding.com/certificates/0LZ067ODRZ65
+    credentialname: Dicoding
+    details: |
+      This class is intended for back-end developers who want to learn
+      best practices for developing RESTful APIs using NodeJS, adhering
+      to AWS-validated industry standards. By the end of this class, students
+      will be able to create back-end applications in the form of RESTful APIs
+      that are testable, scalable, easy and fast to deploy, and have
+      good security according to industry standards.
+
+  - name: Become a Flutter Developer Expert
+    start: 2024
+    end: 2027
+    organization: Dicoding
+    credentialid: JMZV3J32QPN9
+    credentialurl: www.dicoding.com/certificates/JMZV3J32QPN9
+    credentialname: Dicoding
+    details: |
+      This class is intended for Flutter developers who want to learn best 
+      practices for developing Flutter applications, adhering to industry standards. 
+      By the end of the class, students will be able to create release-ready 
+      applications with high-quality code that is easy to develop based on user feedback.
+
+  - name: Learn SOLID Programming Principles
+    start: 2024
+    end: 2027
+    organization: Dicoding
+    credentialid: 1OP8WE608XQK
+    credentialurl: www.dicoding.com/certificates/1OP8WE608XQK
+    credentialname: Dicoding
+    details: |
+      This class is aimed at beginners who want to understand how to 
+      write good code using the object-oriented programming (OOP) paradigm, 
+      while adhering to industry standards. By the end of the class, students 
+      will understand the five SOLID principles and be ready to apply them 
+      to application development.
 
 projects:
   title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  # intro: >
+  #   You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  - title: Template-LaTeX-Tugas-Akhir-Sarjana-UBS
+    link: "https://github.com/X-Hozmi/Template-LaTeX-Tugas-Akhir-Sarjana-UBS"
+    tagline: "A clean thesis, stress-free LaTeX template designed to facilitate the writing of Proposals and Final Assignment Reports for Informatics Engineering undergraduate students at Bani Saleh University."
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+  - title: Flutter_Personal_Website
+    link: "https://github.com/X-Hozmi/Flutter_Personal_Website"
+    tagline: "A modern personal website built with Flutter that showcases your profile, projects, and blog posts (expected)."
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+# oss:
+#   title: OSS Contributions
+#   intro: >
+#     You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#   contributions:
+#   - title: Tempo
+#     link: "#"
+#     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#   - title: Atom
+#     link: "#"
+#     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#   - title: Delta
+#     link: "#"
+#     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+# publications:
+#   title: Publications
+#   intro: |
+#     You can list your publications in this section. Lorem ipsum dolor sit
+#     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#     bibendum fringilla a eu lectus.
+#   papers:
+#   - title: The Art of Computer Programming
+#     link: "#"
+#     authors: Donald E. Knuth
+#     conference: Addison-Wesley, 1968
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#     link: "#"
+#     authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#     conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#   - title: A syntax directed compiler for Algol 60
+#     link: "#"
+#     authors: Edgar T. Irons
+#     conference: "Comm. ACM 4 (1961), 51–55"
 
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+# recommendations:
+#   title: Recommendations
+#   list:
+#   - person: Yareli Perez
+#     email: perezyareli@example.com
+#     phone: 012 345 6789
+#     role: General Director at example.com
+#     recommendation: |
+#       Alan Doe is a super employee!
+#   - person: Lara Henderson
+#     email: larah@example.com
+#     phone: 012 345 6789
+#     role: General Director at example.com
+#     recommendation: |
+#       I would like to work with Alan Doe again!
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       He is a great employee!
 
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+# skills:
+#   title: Skills &amp; Proficiency
 
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
+#   toolset:
+#   - name: PHP & Laravel
+#     # level: 98%
 
-      He is a great employee!
+#   - name: Python
+#   - name: Dart & Flutter
+#   - name: SQL
+#   - name: NginX
+#   - name: Bash
+#   - name: Redis
 
-skills:
-  title: Skills &amp; Proficiency
-
-  toolset:
-  - name: Python & Django
-    level: 98%
-
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
-    level: 85%
-
-  - name: Sketch & Photoshop
-    level: 60%
-
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
