@@ -60,9 +60,7 @@ career-profile:
   title: Career Profile
   summary: |
     Backend Engineer with strong expertise in building scalable backend systems using Laravel and designing robust API integrations.
-    In addition to backend development, I also take on supporting roles as a System Administrator, Database Engineer, DevOps Engineer,
-    and Cloud Engineer, enabling me to manage infrastructure, ensure system reliability, and optimize performance across environments. 
-    Flutter remains a complementary skill, allowing me to contribute to frontend mobile development when needed.
+    Flutter remains a complementary skill, allowing me to contribute to frontend mobile development when needed
 education:
   title: Education
   info:
@@ -214,7 +212,7 @@ projects:
 
   - title: Flutter_Personal_Website
     link: "https://github.com/X-Hozmi/Flutter_Personal_Website"
-    tagline: "A modern personal website built with Flutter that showcases your profile, projects, and blog posts (expected)."
+    tagline: "A modern, API-driven Flutter Web portfolio featuring dynamic GitHub repositories, real-time Discord presence, and planned Medium blog integration—built with Clean Architecture and optimized state management for a responsive and maintainable personal website."
 
 # oss:
 #   title: OSS Contributions
@@ -273,16 +271,21 @@ projects:
 
 #       He is a great employee!
 
-# skills:
-#   title: Skills &amp; Proficiency
+skills:
+  title: Skills &amp; Proficiency
 
-#   toolset:
-#   - name: PHP & Laravel
-#     # level: 98%
+  toolset:
+  - name: PHP & Laravel
+    level: 90%
 
-#   - name: Python
-#   - name: Dart & Flutter
-#   - name: SQL
+  - name: Dart & Flutter
+    level: 70%
+
+  - name: SQL
+    level: 60%
+
+  - name: Python
+    level: 20%
 #   - name: NginX
 #   - name: Bash
 #   - name: Redis
