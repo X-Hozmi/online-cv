@@ -68,13 +68,8 @@ education:
     university: Bani Saleh University
     time: 2022 - 2026 (Expected)
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Studying software engineering, web technologies, data structures, algorithms, 
+      and computer architecture. Actively involved in backend development and cloud computing projects.
 
 experiences:
   title: Experiences
@@ -83,7 +78,6 @@ experiences:
     time: 2025 Jan - Present
     company: PT Energi Pelabuhan Indonesia
     details: |
-      - Office
       - Provisioned, configured, and optimized cloud infrastructure to support scalable application deployments using Cloudeka IaaS to ensure high availability, reliable performance, and cost-efficient infrastructure operations for production workloads
       - Provide a reliable and high-performance server environment capable of handling backend workloads using Ubuntu
       - Strengthened server and application security infrastructure layers using multi-layered security techniques using firewalls, SSL/TLS encryption, and regular security audits to protect sensitive data and maintain system integrity
@@ -92,12 +86,12 @@ experiences:
       - Secured API endpoints and application data through policy enforcement and configuration hardening using NginX to minimize attack surfaces, protect API and server from common cyberthreats, and ensure compliance with best-practice security standards
       - Built robust data synchronization pipelines between internal services and external APIs using Laravel, secure protocols, and automation, ensuring accurate and seamless data exchange
       - Designed, implemented, and maintained monitoring solutions using Sentry, Prometheus and Grafana to ensure comprehensive visibility into system performance. Managed and optimized configurations for meaningful insights
-      - Actively programmed Bash for task automation
+      - Automated recurring operational tasks using Bash scripts to improve workflow efficiency.
+
   - role: Mobile Developer
     time: 2023 Jan - 2024 Dec
     company: PT Energi Pelabuhan Indonesia
     details: |
-      - Office
       - Develop Mobile Customer Self-Service Application with Flutter to eliver a fast, intuitive, and reliable mobile application that improves customer accessibility, enhances user engagement, and supports business operations through real-time service interaction
       - Ensured all development processes adhered to industry-standard best practices across backend, frontend, infrastructure, and DevOps workflows to maintainable, scalable, secure, and high-quality application development while improving collaboration, reducing technical debt, and supporting long-term product lifecycle
 
@@ -112,11 +106,8 @@ certifications:
     credentialurl: www.dicoding.com/certificates/07Z60MWNYZQR
     credentialname: Dicoding
     details: |
-      This class is intended for individuals who want to advance their
-      careers in cloud computing, such as becoming a Professional Cloud Architect,
-      adhering to Google's international competency standards. By the end of the class,
-      students will be able to accurately design and build architectures using the
-      services available on the Google Cloud Platform, ensuring reliability and security.
+      Learned to design, deploy, and secure cloud architectures on Google Cloud Platform 
+      following global PCA (Professional Cloud Architect) standards.
 
   - name: Becoming a Google Cloud Engineer
     start: 2024
@@ -126,10 +117,7 @@ certifications:
     credentialurl: www.dicoding.com/certificates/JMZV38933PN9
     credentialname: Dicoding
     details: |
-      This class is designed for students who want to learn cloud computing, 
-      specifically Google Cloud, based on industry standards. By the end of the class, 
-      students will be able to master Google Cloud services and use them 
-      to create cloud solutions.
+      Gained hands-on expertise in GCP compute, networking, IAM, storage, and deployment workflows.
 
   - name: Learn CI/CD Implementation
     start: 2024
@@ -139,12 +127,7 @@ certifications:
     credentialurl: www.dicoding.com/certificates/KEXL1RVVRXG2
     credentialname: Dicoding
     details: |
-      This class is intended for developers, IT operations, or individuals who want 
-      to understand the intricacies of DevOps, especially in terms of 
-      implementing CI/CD practices, as a step to improve the application development 
-      process they are currently involved in. By the end of the class, students will 
-      be able to understand how to implement CI/CD as one of the practices 
-      in implementing DevOps.
+      Covered CI/CD pipelines, automation strategies, and DevOps practices using industry-standard tools.
       
   - name: Becoming a Linux System Administrator
     start: 2024
@@ -154,10 +137,7 @@ certifications:
     credentialurl: www.dicoding.com/certificates/1RXYL8VW3PVM
     credentialname: Dicoding
     details: |
-      This class is intended for individuals who want to understand the intricacies 
-      of the Linux operating system as a step towards becoming a Linux System Administrator. 
-      By the end of the class, students will be able to operate the Linux operating system 
-      competently, becoming a competent Linux System Administrator.
+      Mastered Linux OS fundamentals, server administration, shell operations, and service configuration.
 
   - name: Becoming a Back-End Developer Expert
     start: 2024
@@ -167,12 +147,7 @@ certifications:
     credentialurl: www.dicoding.com/certificates/0LZ067ODRZ65
     credentialname: Dicoding
     details: |
-      This class is intended for back-end developers who want to learn
-      best practices for developing RESTful APIs using NodeJS, adhering
-      to AWS-validated industry standards. By the end of this class, students
-      will be able to create back-end applications in the form of RESTful APIs
-      that are testable, scalable, easy and fast to deploy, and have
-      good security according to industry standards.
+      Learned best practices in developing secure, scalable RESTful APIs and backend services.
 
   - name: Become a Flutter Developer Expert
     start: 2024
@@ -182,10 +157,7 @@ certifications:
     credentialurl: www.dicoding.com/certificates/JMZV3J32QPN9
     credentialname: Dicoding
     details: |
-      This class is intended for Flutter developers who want to learn best 
-      practices for developing Flutter applications, adhering to industry standards. 
-      By the end of the class, students will be able to create release-ready 
-      applications with high-quality code that is easy to develop based on user feedback.
+      Gained expertise in building release-ready Flutter apps with clean architecture and optimized performance.
 
   - name: Learn SOLID Programming Principles
     start: 2024
@@ -195,11 +167,7 @@ certifications:
     credentialurl: www.dicoding.com/certificates/1OP8WE608XQK
     credentialname: Dicoding
     details: |
-      This class is aimed at beginners who want to understand how to 
-      write good code using the object-oriented programming (OOP) paradigm, 
-      while adhering to industry standards. By the end of the class, students 
-      will understand the five SOLID principles and be ready to apply them 
-      to application development.
+      Learned object-oriented design and the SOLID principles, improving code maintainability and readability.
 
 projects:
   title: Projects
@@ -281,14 +249,11 @@ skills:
   - name: Dart & Flutter
     level: 70%
 
-  - name: SQL
+  - name: SQL (MySQL, PostgreSQL)
     level: 60%
 
-  - name: Python
+  - name: Python (Automation)
     level: 20%
-#   - name: NginX
-#   - name: Bash
-#   - name: Redis
 
 # footer: >
 #   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
